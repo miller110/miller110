@@ -18,5 +18,4 @@
 
 ## Sobre mim 👇
 
-
 Sou um desenvolvedor front-end  apaixonado por tecnologia. Com habilidades sólidas em HTML e CSS, estou constantemente aprimorando minhas habilidades em Javascript e outras linguagens para criar experiências incríveis para os usuários.
