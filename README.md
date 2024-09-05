@@ -18,4 +18,4 @@
 
 ## Sobre mim 👇
 
-Sou um desenvolvedor focado no back-end apaixonado por tecnologia com habilidades sólidas em Java, Python, SQL e MongoDB. E atualmente estou aprimorando diariamente minhas habilidades para oferecer experiências incríveis para os usuários.
+Sou um desenvolvedor focado no back-end apaixonado por tecnologia com habilidades sólidas em Java, Python e SQL. E atualmente estou aprimorando diariamente minhas habilidades para oferecer experiências incríveis para os usuários.
