@@ -1,5 +1,5 @@
 
-#  Olá, eu sou Miller Santiago! Seja bem vindo ao meu repositório 😄
+#  Olá, eu sou Miller Santiago! Seja bem vindo(a)!😄
 
 ## Sobre mim 👇
  
