@@ -15,7 +15,7 @@
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="mysql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
 <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img alt="git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge>">
+<img alt="git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge">
 </div>
 
 
