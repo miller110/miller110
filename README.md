@@ -1,21 +1,40 @@
 
 #  Olá, eu sou Miller Santiago! Seja bem vindo ao meu repositório 😄
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miller-santiago-799bb3150/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miller110)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+## Sobre mim 👇
+ 
+<strong>Desenvolvedor Full-Stack focado no back-end e estudante de Engenharia de Software na Jala University.</strong>
 
-![Miller GitHub stats](https://github-readme-stats.vercel.app/api?username=miller110&show=_icons=true&theme=synthwave)
-
-## Tecnologias que eu utilizo no meu dia-a-dia 👇
+### Habilidades 👇
 
 <div style="display= inline_block"><br>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div><br>
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img alt="mysql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
+<img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img alt="git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge>">
+</div>
 
-## Sobre mim 👇
 
-Sou um desenvolvedor focado no back-end apaixonado por tecnologia com habilidades sólidas em Java, Python e SQL. E atualmente estou aprimorando diariamente minhas habilidades para oferecer experiências incríveis para os usuários.
+### Contato 👇
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miller-santiago-799bb3150/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](Discordapp.com/users/400477233913004032)
+<br><br>
+
+
+<h3 align="center">Estatísticas 👇</h3>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=miller110&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=miller110&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miller110&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+
